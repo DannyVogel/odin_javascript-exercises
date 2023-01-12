@@ -1,3 +1,9 @@
+# DannyVogel note:
+
+**This is a fork of Javascript excercises provided by The Odin Project with solutions implemented by me.**
+
+**Below is the original Readme.MD:**
+
 # JavaScript Exercises
 
 These JavaScript exercises are intended to complement the JavaScript content on The Odin Project (TOP). They should only be done when instructed during the course of the curriculum.
