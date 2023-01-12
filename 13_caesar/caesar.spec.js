@@ -19,5 +19,5 @@ test('works with large shift factors', () => {
   expect(caesar('Hello, World!', 75)).toBe('Ebiil, Tloia!');
 });
 test('works with large negative shift factors', () => {
-  expect(caesar('Hello, World!', -29)).toBe('Ebiil, Tloia!');
+  expect(caesar('Hello, World!', -75)).toBe('Khoor, Zruog!');
 });
